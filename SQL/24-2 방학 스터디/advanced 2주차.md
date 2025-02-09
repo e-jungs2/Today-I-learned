@@ -25,4 +25,6 @@ SELECT를 써 데이터를 불러옴.\
 DISTINCT를 써 중복된 데이터를 제외하고 고유값만 가져와 수를 세 orders로 지정.\
 FROM을 통해 데이터를 가져올 테이블 지정.\
 GROUP BY를 통해 seller_id를 기준으로 그룹화 함.\
-HAVING
+HAVING을 통해 주문 수가 100개 이상인 판매자만 결과에 포함.\
+ORDER BY orders를 기준으로 정렬.\
+DESC 내림차순 정렬.
