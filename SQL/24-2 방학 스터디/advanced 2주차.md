@@ -30,6 +30,7 @@ ORDER BY orders를 기준으로 정렬.\
 DESC 내림차순 정렬.
 ![alt text](image/2주차/1.png)
 <내림차순 정렬 전>\
+
 ![alt text](image/2주차/2.png)
 <내림차순 정렬 후>
 ## 2. 몇 분이서 오셨어요?
