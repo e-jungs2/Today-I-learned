@@ -56,9 +56,12 @@ ORDER BY FOOD_TYPE DESC;
 #### 이때, **RANK(), DENSE_RANK(), ROW_NUMBER() 함수**를 사용하며 결과를 비교하고 해당 함수를 사용하는 경우를 서술해주세요. (함수 사용 예제는 직접 찾아보기)
 **RANK()**
 ![alt text](image/6주차/1.png)
+
 **DENSE_RANK()**
 ![alt text](image/6주차/2.png)
+
 **ROW_NUMBER()**
 ![alt text](image/6주차/3.png)
+
 **함수 정리**
 ![alt text](image/6주차/4.png)
