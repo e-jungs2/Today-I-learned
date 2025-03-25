@@ -53,9 +53,9 @@ SELECT animal_id, name,
 from animal_ins
 order by 1
 ```
-<설명>\
+<설명>
 1. IF 함수 사용 오류
 IF 함수는 IF(..., ..., ...) 이런 식임. OR 연산자는 각 조건에 대해 개별적으로 써야함.
-2.LIKE 연산자 오류
+2. LIKE 연산자 오류
 %Spayed% 앞에 컬럼 명이 없음. 컬럼 명을 각각 써야함.
 3. 작은 따옴표가 아니라 백틱 or 그냥 컬럼명 표기
